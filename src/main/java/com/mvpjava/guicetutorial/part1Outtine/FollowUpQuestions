@@ -1,0 +1,8 @@
+How do I make the Provider know about the existing implementations?
+    - Next video covers this ... MapBinder
+
+How can I inject dependencies into the Provider?
+    - Next video covers @Inject into Providers
+
+How can I inject runtime data into Provider in order to choose impl. at runtime (i.e: user action)?
+    - Next.next video covers AssistedInject (@Assisted) but ...

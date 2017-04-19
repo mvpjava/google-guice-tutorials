@@ -1,0 +1,19 @@
+Topics Covered in This Tutorial...
+
+How to use a Guice @Provider Part 1
+
+- Guice gives you free Providers!
+- Your own Provider implementations
+- @Provides
+- @ProvidedBy
+
+
+How to use a Guice @Provider Part 2
+
+- Injecting into providers (Example: Inject a Random Implementation)
+    - Java built in class 
+    - Guice MapBinder
+- Injecting runtime data into Providers
+    - Rolling your own Factory
+
+- Assisted Inject in a separate video

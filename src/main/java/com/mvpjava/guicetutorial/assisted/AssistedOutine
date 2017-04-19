@@ -1,0 +1,13 @@
+Topics Covered in This Tutorial...
+
+How to use a Guice @Assist (AKA: Assisted Inject)
+
+- Addresses what problem?
+- other options ...
+    - mutable object
+    - builder pattern
+    - Write you own Factory
+
+- Advice on when to justify using Assisted Inject?
+
+

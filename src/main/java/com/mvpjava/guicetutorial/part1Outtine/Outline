@@ -1,0 +1,8 @@
+Topics Covered in This Tutorial...
+
+How to use a Guice @Provider
+
+- Guice gives you free Providers!
+- Your own Provider implementations
+- @Provides
+- @ProvidedBy
